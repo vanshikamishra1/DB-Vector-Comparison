@@ -1,0 +1,6 @@
+DB,Indexing Time (s),Search Time (s),Memory Usage,Recall@10
+FAISS,0.0223,0.0043,In-Memory,0
+Annoy,0.0139,0.0001,In-Memory,0
+HNSWlib,0.0582,0.0002,In-Memory,0
+Qdrant,0.5643,0.0102,Cloud/In-Memory,0
+Chroma,25.3807,0.0224,Disk + Memory,0.3
