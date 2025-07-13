@@ -1,0 +1,21 @@
+# Text Classification with Neural Networks - Requirements
+# Core machine learning and deep learning libraries
+tensorflow>=2.8.0
+scikit-learn>=1.1.0
+
+# Sentence embeddings and transformers
+sentence-transformers>=2.2.0
+transformers>=4.20.0
+
+# Data manipulation and analysis
+pandas>=1.4.0
+numpy>=1.21.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+
+
+
+
